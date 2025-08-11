@@ -1,6 +1,6 @@
 # Amazon-Sales-Dashboard(PowerBI)
 # 📈 Amazon Product Sales Analysis
-<a href="#">Click Here To View Project</a>
+<a href="https://github.com/Tamang-Ajay/Amazon-Sales-Dashboard-PowerBI-Project/blob/main/Dashboard.png">Click Here To View Project</a>
 
 ## 📌Overview:
 I have built an interactive Amazon product sales dashboard to analyze the sales trends,customers reviews and category performance.
@@ -21,7 +21,8 @@ The goal was to create a comprehensive dashboard tracking key metrics like YTD &
 
 ## 💡Impact:
 - Made it easy to see how sales are doing over the year and quarters with the help of filters.
-- Showed the sales of product category in a table and top 5 products by YTD sales and YTD reviews.
+- Showed the sales of product category with table.
+- Showed the top 5 products by YTD sales and YTD reviews.
 - Helped to find sales patterns by month and week.
 
 ## 🔗 Contact
